@@ -4,3 +4,7 @@
 </p>
 
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/promiseduo?label=Planets+^ω^&labelColor=ffffff&color=5eade5) <img width="20" height="20" alt="1000063989" src="https://github.com/user-attachments/assets/bd649480-65f1-477b-a13d-afaeaf888df0" /> ![Github Views](https://views.igorkowalczyk.dev/api/badge/promiseduo?label=Parrots+-ω-&labelColor=ffffff&color=5eade5)
+
+</p>
+
+ill start to work on this page asap ^u^
